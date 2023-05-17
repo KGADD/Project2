@@ -1,5 +1,5 @@
 # for third commit
 # for first commit new_way
 # коммит из проекта pr22
-# for commit from Pr22
-####
+###
+# коммит 2 из проекта pr22
